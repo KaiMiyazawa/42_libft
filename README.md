@@ -138,7 +138,7 @@ gcc -Wall -Wextra -Werror your_program.c -L. -lft
 
 ## 作者情報
 
-- **作成者**: miyazawa.kai.0823
+- **作成者**: kmiyazaw
 - **学校**: 42 Tokyo
 - **作成日**: 2023年5月21日
 - **最終更新**: 2023年12月18日
